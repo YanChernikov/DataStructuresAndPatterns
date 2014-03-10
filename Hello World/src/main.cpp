@@ -22,12 +22,7 @@ int main(int argc, char* argv[]) {
 	}
 	// Wait for input so that the console doesn't
 	// immediately close after the program terminates.
-	//cin.get();
-
-	char text[50];
-	cin.getline();
-	cout << text << endl;
-	system("PAUSE");
+	cin.get();
 
 	// Return 0 (status OK) and terminate the application.
 	return 0;
