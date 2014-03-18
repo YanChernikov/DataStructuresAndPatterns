@@ -3,7 +3,7 @@
 // Lab 1 - Yan Chernikov (9991379)
 //
 
-// Inlcude the Input/Output library.
+// Include the Input/Output library.
 #include <iostream>
 
 // Use the standard namespace.
